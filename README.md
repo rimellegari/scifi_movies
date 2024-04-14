@@ -13,20 +13,20 @@
 <h2>Objetivo do projeto</h2>
 
 <p>O projeto tem como objetivo responder a três perguntas principais</p>
-    <li>
-        <ul>O número de filmes de ficção científica aumentou ao longo dos anos?</ul>
-        <ul>A nota média dos filmes de ficção científica aumentou com o a melhoria de efeitos especiais computacionais no decorrer dos anos?</ul>
-        <ul>Quais são os 10 filmes com maior nota?</ul>
-    </li>
+    <ul>
+        <li>O número de filmes de ficção científica aumentou ao longo dos anos?</li>
+        <li>A nota média dos filmes de ficção científica aumentou com o a melhoria de efeitos especiais computacionais no decorrer dos anos?</li>
+        <li>Quais são os 10 filmes com maior nota?</li>
+    </ul>
  <p> De uma perspectiva técnica o projeto visa ralizar um ETL estruturado e avançar em visualização de dados com ênfase na formatação dos gráficos com a biblioteca seaborn<p>
 
 <i>
     <h2>Project objective</h2>
     <p>This project aims to answer three main questions</p>
-        <li>
-            <ul>Has the number of sci-fi movies increased acrooss the years?</ul>
-            <ul>Has the average ratings of sci-fi movies got higher with the development and improvement of CGI across the years?</ul>
-            <ul>What are the top 10 highest-rated movies?</ul>
-        </li>
+        <ul>
+            <li>Has the number of sci-fi movies increased acrooss the years?</li>
+            <li>Has the average ratings of sci-fi movies got higher with the development and improvement of CGI across the years?</li>
+            <li>What are the top 10 highest-rated movies?</ul>
+        </ul>
     <p>From a technical perspective, the project aims to perform structured ETL and advance in data visualization with an emphasis on formatting the graphs using the seaborn library.<p>
 </i>
