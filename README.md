@@ -46,6 +46,6 @@
 </i>
 <h2>Resultados</h2>
     <p>A quantidade de filmes saltou de 30 filmes por ano na década de 1970 para a casa de 100 filmes em 2018. Entretanto, esse aumento no número de filmes não não foi acompanhado por um aumento na média de avaliação como é possível observar no gráfico abaixo.</p>
-    !(./images/avg_rating.png)
-    
+    ![average rating](images/avg_rating.png)
+
 
