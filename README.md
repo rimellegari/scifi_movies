@@ -62,7 +62,7 @@
 
 ![top_10](images/top_10.jpg)
 
-<h2>Conclusão<h2>
+<h2>Conclusão</h2>
 
 <p> Em relação às notas, a média de todo período analisado foi de 2.8, porém o gráfico de dispersão não mostrou um aumento na média notas no decorrer do tempo </p>
 
