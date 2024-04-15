@@ -47,6 +47,31 @@
 <h2>Resultados</h2>
     <p>A quantidade de filmes saltou de 30 filmes por ano na década de 1970 para a casa de 100 filmes em 2018. Entretanto, esse aumento no número de filmes não não foi acompanhado por um aumento na média de avaliação como é possível observar no gráfico abaixo.</p>
 
-![average rating](images/avg_rating.png)
+</i>   
+    <p>The number of movies jumped from 30 movies per year in the 1970s to around 100 movies in 2018. However, this increase in the number of movies was not accompanied by an increase in the average rating, as it can be observed in the graph below.</p>
+</i>
+
+![average rating](images/avg_rating.jpg)
 
 
+<p> Uma descoberta significativa da análise exploratória foi que a quantidade de tags é relevante para que se possa elencar os filmes além da nota, com esses dois parâmetros encontrou-se os 10 melhores filmes de ficção científica mostrados no gráfico</p>
+
+</i>
+    <p>A significant discovery from the exploratory analysis was that the quantity of tags is relevant for listing movies in addition to the rating. With these two parameters, the top 10 science fiction movies were found, as shown in the graph.</p>
+</i>
+
+![top_10](images/top_10.jpg)
+
+<h2>Conclusão<h2>
+
+<p> Em relação às notas, a média de todo período analisado foi de 2.8, porém o gráfico de dispersão não mostrou um aumento na média notas no decorrer do tempo </p>
+
+<p>Dos dez primeiros colocados, apenas dois filmes (Ex Machina e Interestelar) são da última década. A presença de filmes como Star Wars (1977), lançado apenas quatro anos após Waterworld - o primeiro filme a usar CGI - ainda se destaca no ranking e sugere que existem outros fatores mais importantes do que efeitos especiais que influenciam a na valiação de um filme de ficção científica.</p> 
+
+<i>
+    <h2>Conclusion</h2>
+
+<p>Regarding the ratings, the average for the entire period analyzed was 2.8, but the scatter plot did not show an increase in the average ratings over time.</p>
+
+Of the top ten highest-rated movies, only two (Ex Machina and Interstellar) are from the last decade. The presence of movies like Star Wars (1977), released just four years after Waterworld - the first movie to use CGI - still stands out in the rankings and suggests that there are other factors more important than special effects that influence the rating of a science fiction movie.</p>
+</i>
